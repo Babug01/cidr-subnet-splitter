@@ -1,6 +1,6 @@
 # CIDR Subnet Splitter
 
-**Live demo:** https://babug01.github.io/cidr-subnet-splitter/
+**Live demo:** https://cidr-subnet-splitter.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/cidr-subnet-splitter/)
 
 A subnet-planning tool that goes a step past a basic CIDR calculator: split a parent block into equal-size
 subnets, allocate a VLSM-style plan from a list of host-count requirements, or check a batch of CIDR blocks
